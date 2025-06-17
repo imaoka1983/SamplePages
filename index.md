@@ -1,2 +1,2 @@
 こんにちは
-![猫の画像](./2022-0806-norwegian_001.jpg)
+このページのソールコードは[こちら](https://github.com/imaoka1983//imaoka1983/SamplePages)
